@@ -9,7 +9,7 @@ This project is about the classification sleep deprivation by eeg signal
 ProjectName/
 |
 |--- Notebooks/
-|    | --- dataset
+|    | --- dataset/
 |    | --- eeg.ipynb
 |    | --- interpretation.ipynb
 |    | --- mergerdf.csv
